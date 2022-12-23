@@ -244,12 +244,13 @@ class _LessonPract10State extends State<LessonPract10> {
                       decoration: BoxDecoration(
                           color: Colors.white,
                           borderRadius: BorderRadius.circular(22),
-                          border: Border.all(width: 6, color: Colors.black)),
+                          border:
+                              Border.all(width: 1.5, color: Color(0xffD9D9D9))),
                     ),
                     const Text(
                       "Наша мымра",
                       style: TextStyle(
-                          color: Color(0xff131921),
+                          color: Colors.black45,
                           fontSize: 14,
                           fontWeight: FontWeight.w400),
                     )
@@ -268,12 +269,13 @@ class _LessonPract10State extends State<LessonPract10> {
                       decoration: BoxDecoration(
                           color: Colors.white,
                           borderRadius: BorderRadius.circular(22),
-                          border: Border.all(width: 6, color: Colors.black)),
+                          border:
+                              Border.all(width: 1.5, color: Color(0xffD9D9D9))),
                     ),
                     const Text(
                       "Мужчина в юбке",
                       style: TextStyle(
-                          color: Color(0xff131921),
+                          color: Colors.black45,
                           fontSize: 14,
                           fontWeight: FontWeight.w400),
                     )
